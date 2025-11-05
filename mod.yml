@@ -16,27 +16,17 @@ assets:
   method: copy
   source:
   - name: remastered/FORM/0505/FO0505.RTM/SP_title_xbox.png
-- name: STREAM\0001\Title.win32.scd
+- name: remastered/FORM/0505/FO0505.RTM/SP_title.imz
+  method: copy
+  source:
+  - name: remastered/FORM/0505/FO0505.RTM/SP_title.imz
+- name: STREAM/0001/Title.win32.scd
   method: copy
   platform: pc
   package: Recom
-  multi: 
   source:
-  - name: STREAM\0001\Title.win32.scd
-    method: 
-    platform: 
-    package: 
-    multi: 
-    source: 
-    required: false
-    type: 
-    motionsetType: Default
-    language: 
-    isSwizzled: false
-    index: 0
-  required: false
-  type: 
-  motionsetType: Default
-  language: 
-  isSwizzled: false
-  index: 0
+  - name: STREAM/0001/Title.win32.scd
+- name: remastered/FORM/0505/FO0505.RTM/SP_title.imz
+  method: copy
+  source:
+  - name: remastered/FORM/0505/FO0505.RTM/SP_title.imz
